@@ -1,0 +1,107 @@
+                        /*INVEVTARIO*/
+.dep {
+	position: relative;
+	top: 150px;
+	left: 110px;
+}
+.inventario {
+	position: relative;
+	left: 400px;
+	top: 150px;
+}
+
+h4 {
+	color: blue;
+	font-size: 270%;
+	position:relative;
+	top: 150;
+	bottom: 20px;
+	left: 550px;
+
+}
+
+/*inventario.html*/
+/*.form-inventario {
+	width: 400px;
+	height: 340px;
+	background: darkgray;
+	margin: auto;
+	margin-top: 150px;
+	box-shadow: 7px 13px 37px lightblue;
+	padding: 20px 30px;
+	border-top: 4px solid blue;
+	color: white;
+}
+
+.form-inventario h5{
+	margin: 0;
+	text-align: center;
+	height: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid;
+	font-size: 50px;
+}*/
+p {
+	position: relative;
+	left: 150px;
+	top: 30px;
+	font-size: 40px;
+	height: 60px;
+	text-align: center;
+	border-bottom: 1px solid;
+
+}
+
+.controls {
+	position: relative;
+	left: 150px;
+	width: 100%;
+	border: 1px solid black;
+	margin-bottom: 15px;
+	padding: 11px 10px;
+	background: whitesmoke;
+	font-size: 50px;
+	font-weight: bold;
+}
+.buttons {
+	position: relative;
+	top: 50px;
+	left: 150px;
+	font-size: 50px;
+	width: 250px;
+	height: 80px;
+	background: royalblue;
+	border: none;
+	color: white;
+	margin-bottom: 16px;
+}
+.reg {
+	position: relative;
+	top: 50px;
+	left: 150px;
+	font-size: 65px;
+	width: 350px;
+	height: 150px;
+	background: royalblue;
+	color: white;
+
+}
+
+
+
+
+.bd {
+	height: 200px;
+	font-size: 35px;
+}
+
+.listadep {
+	font-size: 50px;
+}
+
+.reg2 {
+	position: relative;
+	bottom: 20px;
+	left: 50px;
+	font-size: 40px;
+}
